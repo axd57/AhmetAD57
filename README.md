@@ -3,7 +3,7 @@
 
 ## 📭 Connect
 
- <a href="https://www.linkedin.com/in/alexandra-n-martinez/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/ahmet-alper-doruk/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ## 🛠️ Languages and Tools
