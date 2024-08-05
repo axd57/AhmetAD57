@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm axd</h1>
-<h3 align="center">developer.</h3>
+<h3 align="center">Software engineer.</h3>
 
 ## 📭 Connect
 
